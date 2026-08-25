@@ -43,14 +43,13 @@ Helps protect sensitive information.
 
 
 🛠️ Technologies Used
-  Technology	Purpose
-  Python	Main programming language
-  Tkinter	Graphical User Interface (GUI)
-  SQLite	Database management
-  SQL	Database queries and operations
-  Hashlib	Password hashing/security
-  OOP Concepts	Organizing application logic
-
+  Technology	Purpose,
+  Python	Main programming language,
+  Tkinter	Graphical User Interface (GUI),
+  SQLite	Database management,
+  SQL	Database queries and operations,
+  Hashlib	Password hashing/security,
+  OOP Concepts	Organizing application logic.
 
 
 
