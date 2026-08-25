@@ -9,6 +9,7 @@ Student Management System — Manage Students. Simplify Records. Save Time.
 🔐 Secure • ⚡ Fast • 🎨 User-Friendly • 🗄️ Database-Driven
 
 Main Modules:
+
 🔐 Login & Authentication
 Provides secure admin/user login.
 Protects student records from unauthorized access.
@@ -40,14 +41,15 @@ Gives a quick overview of the system.
 Uses password hashing and basic data-protection techniques.
 Helps protect sensitive information.
 
+
 🛠️ Technologies Used
-Technology	Purpose
-Python	Main programming language
-Tkinter	Graphical User Interface (GUI)
-SQLite	Database management
-SQL	Database queries and operations
-Hashlib	Password hashing/security
-OOP Concepts	Organizing application logic
+  Technology	Purpose
+  Python	Main programming language
+  Tkinter	Graphical User Interface (GUI)
+  SQLite	Database management
+  SQL	Database queries and operations
+  Hashlib	Password hashing/security
+  OOP Concepts	Organizing application logic
 
 
 
